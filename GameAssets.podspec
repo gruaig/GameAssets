@@ -10,8 +10,6 @@ Pod::Spec.new do |s|
 
   s.swift_version = '4.0'
 
-  s.ios.deployment_target  = '11.0'
-  s.osx.deployment_target  = '11.0'
 
   s.source_files = 'GameAssets/Classes/**/*'
   
