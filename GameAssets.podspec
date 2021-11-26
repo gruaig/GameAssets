@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
   s.author           = { 'gruaig' => 'gruaig.monaghan@lottomart.com' }
   s.source           = { :git => 'https://github.com/gruaig/GameAssets.git', :tag => s.version.to_s }
 
+  s.ios.deployment_target = '9.0'
   s.swift_version = '4.0'
 
 
