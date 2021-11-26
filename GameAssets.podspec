@@ -8,7 +8,6 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GameAssets'
-  s.version          = '0.1.0'
   s.summary          = 'A short description of GameAssets.'
 
 # This description is used to generate tags and improve search results.
