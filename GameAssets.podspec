@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
 
   s.source_files = 'GameAssets/Classes/**/*.swift'
-  spec.on_demand_resources = {
+  s.on_demand_resources = {
     'PhoenixKingdom' => ['./games/PhoenixKingdom/*']
   }
   
